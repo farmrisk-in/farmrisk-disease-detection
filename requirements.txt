@@ -2,3 +2,5 @@ torch
 torchvision
 transformers
 pillow
+scikit-learn
+google-genai
