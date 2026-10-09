@@ -27,7 +27,7 @@ from transformers import AutoImageProcessor, AutoModelForImageClassification
 from rag import Advisor, KnowledgeBase
 
 APP_DIR = Path(__file__).resolve().parent
-MODEL_ID = os.getenv("MODEL_ID", "YOUR_HF_USERNAME/crop-disease-deit-small")
+MODEL_ID = os.getenv("MODEL_ID", "vegadurmin/crop-disease-deit-small")
 KB_DIR = os.getenv("KB_DIR", str(APP_DIR / "kb"))
 GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-3.1-flash-lite")
 FILL_MODE = os.getenv("FILL_MODE", "ai")  # off | ai | search | auto
