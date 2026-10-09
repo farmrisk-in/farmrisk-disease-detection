@@ -1,0 +1,43 @@
+label,crop,kind,status,matched_name,fields_filled_of_5,problem,note
+American Bollworm on Cotton,cotton,pest,ok,Fruit borer,5,,TNAU titles it 'Fruit borer: Helicoverpa armigera'.
+Anthracnose on Cotton,cotton,disease,ok,,0,not found. Closest: ['tobacco streak virus'],
+bacterial_blight in Cotton,cotton,disease,ok,Bacterial blight,5,,
+bollrot on Cotton,cotton,disease,ok,Boll Rot,5,,
+bollworm on Cotton,cotton,pest,check,,0,no source mapped,"Generic 'bollworm' next to American and pink bollworm. Check training images: spotted, pink or American?"
+Cotton Aphid,cotton,pest,ok,Cotton aphid,4,,
+cotton mealy bug,cotton,pest,ok,Cotton Mealybug,4,,
+cotton whitefly,cotton,pest,ok,Whitefly,4,,
+pink bollworm in cotton,cotton,pest,ok,Pink bollworm,5,,
+red cotton bug,cotton,pest,ok,Red cotton bug,4,,
+thirps on  cotton,cotton,pest,ok,Thrips,4,,
+Leaf Curl,cotton,disease,missing,,0,no source mapped,Assumed cotton leaf curl virus. TNAU cotton page has no leaf curl entry.
+Wilt,cotton,disease,check,Fusarium wilt,5,,No crop in label. Assumed cotton Fusarium wilt; TNAU also has sugarcane wilt and cotton Verticillium wilt.
+Healthy cotton,cotton,,healthy,,0,,
+Becterial Blight in Rice,rice,disease,ok,Bacterial leaf blight,2,,
+Brownspot,rice,disease,ok,Brown Spot or Sesame leaf spot,2,,No crop in label; assumed rice.
+Rice Blast,rice,disease,ok,Blast,2,,
+Tungro,rice,disease,ok,Rice tungro virus,2,,
+Leaf smut,rice,disease,missing,,0,no source mapped,Assumed rice leaf smut. Not on TNAU rice page.
+Army worm,rice,pest,check,,0,"not found. Closest: ['rice case worm', 'whorl maggot']",No crop in label; assumed rice armyworm. Confirm from training images.
+Common_Rust,maize,disease,ok,Common Rust,5,,
+Gray_Leaf_Spot,maize,disease,missing,,0,no source mapped,Not on TNAU maize page.
+maize ear rot,maize,disease,approx,Aspergillus rot / Aflatoxin contamination rot,5,,TNAU only has Aspergillus ear rot. Your images may be Fusarium ear rot.
+maize fall armyworm,maize,pest,ok,Fall armyworm,3,,
+maize stem borer,maize,pest,ok,Stem borer,4,,
+Healthy Maize,maize,,healthy,,0,,
+Wheat black rust,wheat,disease,ok,Stem Rust,4,,Black rust = stem rust.
+Wheat Brown leaf Rust,wheat,disease,ok,Leaf Rust /Brown Rust,3,,
+Wheat___Yellow_Rust,wheat,disease,ok,Stripe Rust/Yellow Rust,4,,Yellow rust = stripe rust.
+Wheat powdery mildew,wheat,disease,ok,Powdery mildew,3,,
+Flag Smut,wheat,disease,missing,,0,no source mapped,Not on TNAU wheat page.
+Wheat leaf blight,wheat,disease,missing,,0,no source mapped,Not on TNAU wheat page.
+Wheat scab,wheat,disease,missing,,0,no source mapped,Not on TNAU wheat page.
+Wheat aphid,wheat,pest,missing,,0,no source mapped,TNAU has no wheat pest pages.
+Wheat mite,wheat,pest,missing,,0,no source mapped,TNAU has no wheat pest pages.
+Wheat Stem fly,wheat,pest,missing,,0,no source mapped,TNAU has no wheat pest pages.
+Healthy Wheat,wheat,,healthy,,0,,
+RedRot sugarcane,sugarcane,disease,ok,Red rot,3,,
+RedRust sugarcane,sugarcane,disease,ok,Rust,3,,
+Yellow Rust Sugarcane,sugarcane,disease,approx,Rust,3,,TNAU has one sugarcane rust page. Yellow/orange rust shares it with red/brown rust.
+Mosaic sugarcane,sugarcane,disease,missing,,0,no source mapped,Not on TNAU sugarcane page.
+Sugarcane Healthy,sugarcane,,healthy,,0,,

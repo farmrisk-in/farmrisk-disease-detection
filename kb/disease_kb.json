@@ -1,0 +1,1034 @@
+{
+ "American Bollworm on Cotton": {
+  "label": "American Bollworm on Cotton",
+  "crop": "Cotton",
+  "kind": "pest",
+  "name": "Fruit borer",
+  "status": "ok",
+  "note": "TNAU titles it 'Fruit borer: Helicoverpa armigera'.",
+  "source_url": "https://agritech.tnau.ac.in/crop_protection/cotton/crop_prot_crop_insectpest _cotton_1.html",
+  "images": [
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/cotton/Life cycle of American bollworm.jpg",
+    "path": "images/pest/cotton/fruit_borer/life_cycle_of_american_bollworm_e2857e.jpg",
+    "caption": ""
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/crop_prot_crop_insectpest _cotton_clip_image002.jpg",
+    "path": "images/pest/cotton/fruit_borer/crop_prot_crop_insectpest_cotton_clip_image002_8f396a.jpg",
+    "caption": "Feeding injury"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/crop_prot_crop_insectpest _cotton_clip_image004.jpg",
+    "path": "images/pest/cotton/fruit_borer/crop_prot_crop_insectpest_cotton_clip_image004_ac0f29.jpg",
+    "caption": "Circular bore hole"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/crop_prot_crop_insectpest _cotton_clip_image006.jpg",
+    "path": "images/pest/cotton/fruit_borer/crop_prot_crop_insectpest_cotton_clip_image006_f03136.jpg",
+    "caption": "Eggs"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/cotton/American bollworm - Larvae.jpg",
+    "path": "images/pest/cotton/fruit_borer/american_bollworm_larvae_a721e6.jpg",
+    "caption": "Larva"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/crop_prot_crop_insectpest _cotton_clip_image010.jpg",
+    "path": "images/pest/cotton/fruit_borer/crop_prot_crop_insectpest_cotton_clip_image010_79a31c.jpg",
+    "caption": "Pupa"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/cotton/American bollworm.jpg",
+    "path": "images/pest/cotton/fruit_borer/american_bollworm_ffe85e.jpg",
+    "caption": "Adult"
+   }
+  ],
+  "fields": {
+   "symptoms": "Regular circular boreholes on bolls.\nPresence of granular faecal pellets outside bore hole.\nLarva seen hanging in bore hole with head and part of abdomen thrust inside.",
+   "pest": "Helicoverpa armigera",
+   "identification_biology": "Destructive stage: Larva\nEggs: Sub-globular, yellowish white in colour. Laid singly on shoots, buds, bracts tender bolls. Egg\nperiod: 4-7 days.\nLarva: Greenish brown with brownish grey lines and dark grey yellow stripes on lateral sides. Larval\nperiod: 5-18 days.\nPupa: Brown coloured. Pupation in soil. Pupal period: 10-14 days.\nAdults: Stout- yellowish brown with ‘V’ shaped speck, greyish wavy lines and black mark on\nforewings Hind wings whitish with brown or black border along outer margin, Adult longevity:\n10-12 days .\nLife Cycle of American Bollworm",
+   "economic_threshold": "ETL: 10% infested fruiting parts or one egg or one larva/plant.",
+   "management": "Pest monitoring through light traps 1 /acre, pheromone traps 5 /acre and in situ assessments by roving and fixed plot surveys has to be intensified at farm, village, block, regional and State level.\nSynchronized sowing of cotton preferably with short duration varieties.\nAvoid continuous cropping of cotton both during winter and summer seasons in the same area as well as ratooning.\nAvoid monocropping.\nGrowing of less preferred crops like greengram, blackgram, soyabean, castor, sorghum etc., along with the cotton as intercrop or border crop or alternate crop.\nRemoval and destruction of crop residues to avoid carryover of the pest to the next season.\nJudicious use of nitrogenous fertilizers.\nJudicious water management for the crop.\nApplication of Nuclear Polyhedrosis Virus (NPV) at 1.2 x 1012 POB / acre in evening hours at 7th and 12th week after sowing.\nApplication of Bacillus thuringiensis var. kurstaki 5%WP 300-400g/acre or Beauveria bassiana 1.15%WP 160g/acre.\nInundative release of egg parasitoid, Trichogramma chilonis at 2.5 cc / acre at 15 days interval 3 times from 45 days after sowing.\nRelease of predator Chrysopa zastrowi sillemi at 40000 / acre at 6th, 13th and 14th week after sowing.\nULV spray of NPV at 1.2 x 1012 POB / acre with 10% cotton seed kernel extract, 10% crude sugar, 0.1% each of Tinopal and Teepol.\nAvoid indiscriminate use of insecticides, particularly synthetic pyrethroids.\nAvoid combination of insecticides as tank mix.\nAdopt proper delivery system using spraying equipments like hand compression sprayer, knapsack sprayer and mist blower to ensure proper coverage with required quantity of spray fluid and avoid ULV applications or Akela spray applications.\nProper mixing and preparation of spray fluid for each filling of spray fluid tank\nAt early stages of square formation apply one of the following insecticides viz.,\nAzadirachtin 0.03% EC 1000ml/acre or Diflubenzuron 25% WP 120-140g/acre or Emamectin benzoate 5% SG 76-88g/acre or Fipronil 5% SC 800ml/acre or Flubendiamide 20% WG 100g/acre or Flubendiamide 39.35% SC 40-50 ml/acre or Indoxacarb 14.5% SC 200ml/acre or Novaluron 10%EC 400ml/acre or Pyridalyl 10% EC 300-400ml/acre or Chlorantraniliprole 18.5% SC 60ml/acre or Lufenuron 5.4% EC 240ml/acre or Spinosad 45.0% SC 66-88ml/acre.\nDuring boll formation and maturation stage, apply any one of the following insecticides viz.,Chlorantraniliprole 18.5% SC 60 ml/acre or Lufenuron 5.4% EC 240 ml/acre or Spinosad 45.0% SC 66-88ml/acre.\nFeeding injury\nCircular bore hole\nEggs\nLarva\nPupa\nAdult"
+  }
+ },
+ "Anthracnose on Cotton": null,
+ "bacterial_blight in Cotton": {
+  "label": "bacterial_blight in Cotton",
+  "crop": "Cotton",
+  "kind": "disease",
+  "name": "Bacterial blight",
+  "status": "ok",
+  "note": "",
+  "source_url": "https://agritech.tnau.ac.in/crop_protection/cotton_diseases/cotton_d9.html",
+  "images": [
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/cotton_disease_images/BLB.jpg",
+    "path": "images/disease/cotton/bacterial_blight/blb_239750.jpg",
+    "caption": "Angular leaf spot"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/cotton_disease_images/BLB1.jpg",
+    "path": "images/disease/cotton/bacterial_blight/blb1_5c4f33.jpg",
+    "caption": "Vein necrosis"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/cotton_diseases/Seedling blight - BB.jpg",
+    "path": "images/disease/cotton/bacterial_blight/seedling_blight_bb_e179ba.jpg",
+    "caption": "Seedling blight"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/cotton_diseases/Blackarm - BB.jpg",
+    "path": "images/disease/cotton/bacterial_blight/blackarm_bb_c27c7c.jpg",
+    "caption": "Blackarm"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/cotton_diseases/Square and Boll rot - BB.jpg",
+    "path": "images/disease/cotton/bacterial_blight/square_and_boll_rot_bb_b23684.jpg",
+    "caption": "Square and Boll Rot"
+   }
+  ],
+  "fields": {
+   "symptoms": "The bacterium attacks all stages from seed to harvest.\nFive common phases of symptoms\n1. Seedling blight\nSmall, water-soaked, circular or irregular lesions on the cotyledons.\nInfection spreads to stem through petiole and cause withering and death of seedlings.\n2. Angular Leaf Spot\nSmall, dark green, water soaked areas develop on lower surface of leaves.\nThe spots become angular restricted by veins and veinlets and are visible on both the surface of leaves.\nLater they turn reddish brown colour and infection spreads to veins and veinlets.\n3.Vein necrosis or Vein banding\nBlackening of the veins and veinlets, gives a typical ‘blighting’ appearance.\nOn the lower surface of the leaf, bacterial oozes are formed as crusts or scales.\nThe leaves become crinkled and twisted inward and show withering.\nThe infection also spreads from veins to petiole and cause blighting leading to defoliation.\n4. Blackarm\nOn the stem and fruiting branches, dark brown to black lesions are formed.\nGirdle the stem and branches to cause premature drooping off of the leaves.\nCracking of stem and gummosis, resulting in breaking of the stem and hang typically as dry black twig to give a characteristic “black arm” symptom.\n5. Square rot or boll rot\nOn the bolls, water soaked lesions appear and turn into dark black and sunken irregular spots.\nInfection slowly spreads to entire boll and shedding occurs.\nInfection on mature bolls lead to premature bursting.\nThe bacterium spreads inside the boll and lint gets stained yellow because of bacterial ooze and loses its appearance and market value.\nThe pathogen also infects the seed and causes reduction in size and viability of the seeds.",
+   "pathogen": "Xanthomonas campestris p.v malvacearum",
+   "mode_of_spread": "The bacterium survives on infected, dried plant debris in soil for several years. The bacterium is also seed-borne and remains in the form of slimy mass on the fuzz of seed coat.\nThe primary infection is through seed-borne bacterium.\nSecondary spread is through wind, windblown rain splash, irrigation water, insects and other implements.",
+   "favourable_conditions": "Optimum soil temperature of 28˚C,\nHigh atmospheric temperature of 30-40˚C,\nRelative humidity of 85 per cent\nPoor tillage, late irrigation\nPotassium deficiency in soil.\nRain followed by bright sunshine during the months of October and November.",
+   "management": "Delint the cotton seeds with concentrated sulphuric acid at 100ml/kg of seed.\nTreat the delinted seeds with Carboxin or Oxycarboxin at 2 g/kg or Carboxin 37.5% + Thiram 37.5% WS @2.5 g/ kg\nRemove and destroy the infected plant debris.\nRogue out the volunteer cotton plants and weed hosts.\nFollow crop rotation with non-host crops.\nEarly thinning and early earthing up with potash.\nSpray Streptomycin sulphate @ 100g +Copper oxychloride@500 g/acre"
+  }
+ },
+ "bollrot on Cotton": {
+  "label": "bollrot on Cotton",
+  "crop": "Cotton",
+  "kind": "disease",
+  "name": "Boll Rot",
+  "status": "ok",
+  "note": "",
+  "source_url": "https://agritech.tnau.ac.in/crop_protection/cotton_diseases/cotton_d5.html",
+  "images": [
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/cotton_diseases/Boll rot - Boll Brown spot.jpg",
+    "path": "images/disease/cotton/boll_rot/boll_rot_boll_brown_spot_ab396e.jpg",
+    "caption": "Boll Brown spot"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/cotton_diseases/Boll rot - Lint staining - 1.jpg",
+    "path": "images/disease/cotton/boll_rot/boll_rot_lint_staining_1_2d2841.jpg",
+    "caption": "Lint staining"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/cotton_diseases/Boll rot - Lint staining - 2.jpg",
+    "path": "images/disease/cotton/boll_rot/boll_rot_lint_staining_2_107169.jpg",
+    "caption": "Boll rot - Lint staining - 2"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/cotton_diseases/Boll rot - Lint staining - 3.jpg",
+    "path": "images/disease/cotton/boll_rot/boll_rot_lint_staining_3_e96055.jpg",
+    "caption": ""
+   }
+  ],
+  "fields": {
+   "symptoms": "Disease appears as small brown or black dots which later enlarge to cover the entire bolls.\nInfection spreads to inner tissues and rotting of seeds and lint occur.\nThe bolls never burst open and fall off prematurely.\nFruiting bodies of fungi are observed on the bolls .",
+   "pathogen": "Fungal complex Fungal pathogens involved in boll rot are Fusarium moniliforme, Colletotrichum capsici, Aspergillus flavus, Aspergillus niger, Rhizopus nigricans, Nematosporanagpuriand Botryodiplodia sp.",
+   "mode_of_spread": "The fungi survive on the infected bolls in the soil.\nPrimary spread is through infected bolls.\nSecondary spread is through air-borne conidia.",
+   "favourable_conditions": "Heavy rainfall during the square and boll formation stage .\nPunctures caused by the insects\nCloser spacing\nExcessive nitrogen application.",
+   "management": "Adopt optimum spacing.\nApply the recommended doses of fertilizers.\nSpray Copper oxy chloride @1000 g/acre or Carbendazim @ 200 g /acre or Mancozeb @ 800 g / acre."
+  }
+ },
+ "bollworm on Cotton": null,
+ "Cotton Aphid": {
+  "label": "Cotton Aphid",
+  "crop": "Cotton",
+  "kind": "pest",
+  "name": "Cotton aphid",
+  "status": "ok",
+  "note": "",
+  "source_url": "https://agritech.tnau.ac.in/crop_protection/cotton/crop_prot_crop_insectpest _cotton_11.html",
+  "images": [
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/cotton/Cotton aphid -1.jpg",
+    "path": "images/pest/cotton/cotton_aphid/cotton_aphid_1_d89a95.jpg",
+    "caption": ""
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/cotton/Cotton aphid - 2.jpg",
+    "path": "images/pest/cotton/cotton_aphid/cotton_aphid_2_be30a5.jpg",
+    "caption": ""
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/cotton/Cotton aphid - 3.jpg",
+    "path": "images/pest/cotton/cotton_aphid/cotton_aphid_3_3529a4.jpg",
+    "caption": ""
+   }
+  ],
+  "fields": {
+   "symptoms": "Leaves are shiny with honeydew or darkened by sooty mould growing on the honeydew.\nCrumpling and downward curling observed under severe attack.\nActivity of ants on the aphid-infested plants is common.\nContamination of lint with honeydew and associated fungi leads to poor quality cotton.",
+   "pest": "Aphis gossypii (Aphididae: Hemiptera)",
+   "identification_biology": "Destructive stage: Nymphs and adults.\nReproduction by parthenogenesis and viviparity.\nNymphs: Small, yellowish or brownish in colour and mostly wingless. Nymphal period: 7-9 days.\nAdults: Yellowish brown to black with black cornicles and yellowish green abdominal tip. Adult longevity: 12-20 days.",
+   "economic_threshold": "",
+   "management": "ETL: 15% of infested plant\nAvoid late sowing.\nTreat seeds with Beauveria bassiana @ 10 g/kg.\nApply nitrogenous fertilizers judiciously.\nGrow cowpea as intercrop or on the bunds to increase the natural enemy build up.\nSpray any one of the following insecticides when pest population reaches ETL:\nImidacloprid 17.8% SL 40 – 50 ml/acre or Azadirachtin 0.03% EC 1000 ml/acre or\nBuprofezin 25%SC 400 ml/acre or Diafenthiuron 50%WP 240 g/acre or Thiacloprid 21.7%SC 40-50 ml/acre or Flonicamid 50% WG 60 g/acre or Thiamethoxam 25% WG 40 g/acre"
+  }
+ },
+ "cotton mealy bug": {
+  "label": "cotton mealy bug",
+  "crop": "Cotton",
+  "kind": "pest",
+  "name": "Cotton Mealybug",
+  "status": "ok",
+  "note": "",
+  "source_url": "https://agritech.tnau.ac.in/crop_protection/cotton/crop_prot_crop_insectpest _cotton_16.html",
+  "images": [
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/cotton/Mealybug - Damage - 1.jpg",
+    "path": "images/pest/cotton/cotton_mealybug/mealybug_damage_1_ca174a.jpg",
+    "caption": ""
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/cotton/Mealybug - Damage - 2.jpg",
+    "path": "images/pest/cotton/cotton_mealybug/mealybug_damage_2_75fcb2.jpg",
+    "caption": "Mealybug - Damage"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/cotton/Mealybug - Damage - 3.jpg",
+    "path": "images/pest/cotton/cotton_mealybug/mealybug_damage_3_e695be.jpg",
+    "caption": ""
+   }
+  ],
+  "fields": {
+   "symptoms": "Vegetative phase exhibit symptoms of distorted, bushy shoots, crinkled and/or twisted bunchy leaves and stunted plants that dry completely in severe cases.\nLate season infestations during reproductive crop stage result in reduced plant vigour and early crop senescence.\nHoneydew secreted by the mealybug encourages development of black sooty mould which adversely affects photosynthetic activity.",
+   "pest": "Phenacoccus solenopsisi and Papaya mealybug Paracoccus marginatus (Pseudococcidae: Hemiptera)",
+   "identification_biology": "Destructive stage: Nymphs and adults.\nPhenacoccus solenopsis is yellowish green in colour with short to medium sized waxy filaments with two short anal filaments and two dark strips on either side of the middle ridge of the body.\nParacoccus marginatus is yellowish and distinctly segmented. Flattened oval body long covered with mealy wax.",
+   "economic_threshold": "",
+   "management": "Remove and destroy the infested plant parts.\nRemove the alternate weeds hosts.\nRelease encyrtid parasitoids, Acerophagus papayae @ 100 per village against Paracoccus marginatus and Aenasiusbam bawaeli against Phenococcus solenopsis.\nUse botanical insecticides like neem derivatives such as neem oil 2%, NSKE 5% and Fish oil rosin soap 25 g/lit. of water.\nSpray any one of the insecticides: Flonicamid 50% WG 60 g/acre or Thiamethoxam 25% WG 80 g/acre."
+  }
+ },
+ "cotton whitefly": {
+  "label": "cotton whitefly",
+  "crop": "Cotton",
+  "kind": "pest",
+  "name": "Whitefly",
+  "status": "ok",
+  "note": "",
+  "source_url": "https://agritech.tnau.ac.in/crop_protection/cotton/crop_prot_crop_insectpest _cotton_13.html",
+  "images": [
+   {
+    "url": "https://agritech.tnau.ac.in/ta/crop_protection/images/cotton/crop_prot_crop_insectpestcotton_clip_image002_0007.jpg",
+    "path": "images/pest/cotton/whitefly/crop_prot_crop_insectpestcotton_clip_image002_0007_54e444.jpg",
+    "caption": ""
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/cotton/Whitefly-infest.JPG",
+    "path": "images/pest/cotton/whitefly/whitefly_infest_5143ff.jpg",
+    "caption": ""
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/cotton/White fly - 3.jpg",
+    "path": "images/pest/cotton/whitefly/white_fly_3_dfbbfe.jpg",
+    "caption": "Nymphs"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/cotton/White fly - 2.jpg",
+    "path": "images/pest/cotton/whitefly/white_fly_2_d85591.jpg",
+    "caption": "Pupae"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/cotton/White fly - 1.jpg",
+    "path": "images/pest/cotton/whitefly/white_fly_1_c31df7.jpg",
+    "caption": "Adult"
+   }
+  ],
+  "fields": {
+   "symptoms": "Appearance of chlorotic spots on the leaves and upward curling of leaves.\nLeaves become reddish, brittle.\nPremature leaf dropping, boll bursting and poor quality lint due to honey dew secretion.",
+   "pest": "Bemisia tabaci (Aleyrodidae: Hemiptera)",
+   "identification_biology": "Destructive stage: Nymphs and adults.\nEggs: Yellowish white laid singly on the under surface of leaves. Egg period: 3-5.\nNymph- Greenish yellow, oval in outline\nPupa- Oval in shape, present on the under surface of the leaves\nAdult- Minute insects with yellow body covered with a white waxy bloom",
+   "economic_threshold": "",
+   "management": "ETL: 5 - 10 /leaf\nAvoid alternate cultivated host crops of the whitefly like brinjal, bhendi, tomato, tobacco and sunflower in the vicinity of cotton crop.\nRemoval and destruction of alternate weed hosts like Abutilon indicum and Solanum nigrum from the fields and neighbouring areas and maintaining field sanitation.\nAdoption of crop rotation with non-preferred hosts such as sorghum, ragi, maize.\nTimely sowing with recommended spacing, preferably wider spacing and judicious application of recommended dose of fertilizers, particularly nitrogenous and irrigation management is essential to arrest the excessive vegetative growth and pest build up.\nMonitoring the activities of the adult white flies by setting up yellow sticky traps at 1 foot height above the plant canopy.\nSpray any one of the following insecticides when pest population reaches ETL:\nImidacloprid 17.8% SL 40 – 50 ml/acre or Buprofezin 25%SC 400 ml/acre or Diafenthiuron 50%WP 240 g/acre or Thiacloprid 21.7%SC 200- 240ml/acre or Flonicamid 50% WG 60 g/acre or Thiamethoxam 25% WG 80 g/acre or Fipronil5% SC 600-800 ml/acre."
+  }
+ },
+ "pink bollworm in cotton": {
+  "label": "pink bollworm in cotton",
+  "crop": "Cotton",
+  "kind": "pest",
+  "name": "Pink bollworm",
+  "status": "ok",
+  "note": "",
+  "source_url": "https://agritech.tnau.ac.in/crop_protection/cotton/crop_prot_crop_insectpest _cotton_2.html",
+  "images": [
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/cotton/Pink bollworm - Damage.jpg",
+    "path": "images/pest/cotton/pink_bollworm/pink_bollworm_damage_f32415.jpg",
+    "caption": ""
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/cotton/Pink bollworm larva.jpg",
+    "path": "images/pest/cotton/pink_bollworm/pink_bollworm_larva_60aabd.jpg",
+    "caption": "Young larva"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/cotton/Pink bollworm adult.jpg",
+    "path": "images/pest/cotton/pink_bollworm/pink_bollworm_adult_c1fb42.jpg",
+    "caption": "Adult"
+   }
+  ],
+  "fields": {
+   "symptoms": "Rosetted flowers.\nExcreta observed at the point of bore holes by larval feeding. .\nInterlocular boring and formation of double seeds.\nThe attacked buds and immature bolls drop off. Discoloured lint and burrowed seeds.",
+   "pest": "Pectinophora gossypiella",
+   "identification_biology": "Destructive stage: Larva.\nEgg: Flat, laid singly on leaves, flowers, bolls. Egg period 4-20 days.\nLarva: Young larva are white and late instar becomes almost black, brown or green to pale or pink. Larval period: 25-35 days.\nPupa: Pupation in soil and debris. Pupal period: 8-12 days.\nAdult: Small moth. Forewings are brown or dull yellow olive grey with dark spots. Hind wings margins\nare deeply fringed. Adult longevity: 7-10 days.\nPink bollworm - Damage",
+   "economic_threshold": "ETL: 10% infested fruiting parts or 8 moths/trap\nYoung larva\nAdult",
+   "management": "Use pheromone traps to monitor the adult moth activity @ 5 / acre.\nSpraying any one of the insecticides viz.,\nEmamectin benzoate 5% SG 76 – 88 g/acre or Diflubenzuron 25%WP 120-140 g/acre or Chlorantraniliprole18.5% SC 60 ml /acre."
+  }
+ },
+ "red cotton bug": {
+  "label": "red cotton bug",
+  "crop": "Cotton",
+  "kind": "pest",
+  "name": "Red cotton bug",
+  "status": "ok",
+  "note": "",
+  "source_url": "https://agritech.tnau.ac.in/crop_protection/cotton/crop_prot_crop_insectpest _cotton_14.html",
+  "images": [
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/cotton/Red cottonbug.JPG",
+    "path": "images/pest/cotton/red_cotton_bug/red_cottonbug_ddd310.jpg",
+    "caption": ""
+   }
+  ],
+  "fields": {
+   "symptoms": "Red stained lint and rotting bolls\nInner boll wall with warty growth or water soaked spots\nYoung bolls abort and turn dark brown\nThe bacterium Nematosporagossypii enters the site of injury and stains the fibre",
+   "pest": "Dysdercus cingulatusi",
+   "identification_biology": "Nymphs and Adults - Reddish bugs with white bands on the abdomen and black markings on the wings",
+   "economic_threshold": "",
+   "management": "Plough the field to expose the eggs"
+  }
+ },
+ "thirps on  cotton": {
+  "label": "thirps on  cotton",
+  "crop": "Cotton",
+  "kind": "pest",
+  "name": "Thrips",
+  "status": "ok",
+  "note": "",
+  "source_url": "https://agritech.tnau.ac.in/crop_protection/cotton/crop_prot_crop_insectpest _cotton_12.html",
+  "images": [
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/cotton/Thrips - Adult.jpg",
+    "path": "images/pest/cotton/thrips/thrips_adult_2b1908.jpg",
+    "caption": ""
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/cotton/Thrips - Damage.jpg",
+    "path": "images/pest/cotton/thrips/thrips_damage_e9bf99.jpg",
+    "caption": ""
+   }
+  ],
+  "fields": {
+   "symptoms": "Leaf laceration under the under surface of leaves.\nSilvery or brown necrotic spots of 3-5 mm.\nLeaf wrinkling and upward curling.\nDistorted leaves with white shiny patches.",
+   "pest": "Thrips tabaci",
+   "identification_biology": "Destructive stage: Nymphs and adults.\nEggs: Minute, kidney shaped laid in slits in leaf tissues. Egg period: 5 days.\nNymphs - Very minute, slender, yellowish and microscopic\nAdult - Small, slender, yellowish to brown with fringed wings",
+   "economic_threshold": "",
+   "management": "ETL: 50 nymphs or adults / 50 leaves\nAvoid planting of cotton near onion fields to prevent the migration of thrips\nAvoid late sowing.\nTreat seeds with Beauveria bassiana @ 10 g/kg.\nApply nitrogenous fertilizers judiciously\nSpray any one of the following insecticides when pest population reaches ETL:\nImidacloprid 17.8% SL 40 – 50 ml/acre or Buprofezin 25%SC 400 ml/acre or Diafenthiuron 50%WP 240 g/acre or Thiacloprid 21.7%SC 40-50 ml/acre or Flonicamid 50% WG 60 g/acre or Thiamethoxam 25% WG 40 g/acre or Fipronil5% SC 600-800 ml/acre."
+  }
+ },
+ "Leaf Curl": null,
+ "Wilt": {
+  "label": "Wilt",
+  "crop": "Cotton",
+  "kind": "disease",
+  "name": "Fusarium wilt",
+  "status": "check",
+  "note": "No crop in label. Assumed cotton Fusarium wilt; TNAU also has sugarcane wilt and cotton Verticillium wilt.",
+  "source_url": "https://agritech.tnau.ac.in/crop_protection/cotton_diseases/cotton_d1.html",
+  "images": [
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/cotton_disease_images/fusarium wilt.jpg",
+    "path": "images/disease/cotton/fusarium_wilt/fusarium_wilt_133afd.jpg",
+    "caption": "Vascular browning"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/cotton_disease_images/fusarium wilt1.jpg",
+    "path": "images/disease/cotton/fusarium_wilt/fusarium_wilt1_34228f.jpg",
+    "caption": "Yellowing of leaves"
+   }
+  ],
+  "fields": {
+   "symptoms": "Yellowing and browning of cotyledons followed by browning on the petiole.\nLoss of turgidity, yellowing, drooping and wilting of leaves.\nBrowning or blackening of vascular tissues.\nInfected plants appear stunted with fewer bolls.",
+   "pathogen": "Fusarium oxysporum f.sp. vasinfectum",
+   "mode_of_spread": "Survive in soil as saprophyte for many years and chlamydospores act as resting spores.\nPrimary spread is through seed, dormant hyphae and chlamydospores.\nThe pathogen is externally and internally seed-borne.\nSecondary spread by wind and irrigation water.",
+   "favourable_conditions": "Soil temperature of 20-30 0C .\nHot and dry periods followed by rains .\nHeavy black soils with an alkaline reaction\nIncreased dose of nitrogen and phosphatic fertilizers .\nWounds caused by nematode (Meloidogyne incognita) and grubs of Ash weevil (Myllocerus pustulatus)",
+   "management": "Remove and burn the infected plant debris in the soil after deep summer ploughing. .\nApply farm yard manure or other organic manures @ 4 t/ac. .\nFollow mixed cropping with non-host plants to reduce the soil temperature below 200C by providing shade.\nTreat the acid-delinted seeds with Chlorothalonil at 4 g/kg of seed .\nSeed treatment with Bacillus subtilis (10g/kg) or Trichoderma asperellum @ 4 g/kg.\nApply Trichoderma asperellum @ 1 kg/ acre, twice in the soil during sowing and 90 DAS . Multiply 1 kg of T. asperellum in 100 kg of Farm yard manure for 15 days before application.\nSpot drenching with Carbendazim 50%WP @1g/ lit of water"
+  }
+ },
+ "Healthy cotton": null,
+ "Becterial Blight in Rice": {
+  "label": "Becterial Blight in Rice",
+  "crop": "Rice",
+  "kind": "disease",
+  "name": "Bacterial leaf blight",
+  "status": "ok",
+  "note": "",
+  "source_url": "https://agritech.tnau.ac.in/crop_protection/rice_diseases/rice_23.html",
+  "images": [
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/rice_diseases/new.gif",
+    "path": "images/disease/rice/bacterial_leaf_blight/new_c84c3d.gif",
+    "caption": "Other Management"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/images/rice_diseases/BLB.png",
+    "path": "images/disease/rice/bacterial_leaf_blight/blb_f1c704.png",
+    "caption": "Bacterial leaf blight"
+   }
+  ],
+  "fields": {
+   "symptoms": "Bacterial blight syndrome exhibits three types of symptoms: leaf blight, kresek (the seedling blight or wilt phase) and the pale-yellow leaf.\nThe disease has been referred to as “bacterial leaf blight” to indicate that the “leaf blight” phase of the syndrome is the most distinct and commonly observed symptom.\nSeedlings in the nursery show circular, yellow spots in the margin, that enlarge, coalesce leading to drying of foliage.\n“Kresek” symptom is seen in seedlings, 1-2 weeks after transplanting.\nThe bacteria enter through the cut wounds in the leaf tips, become systemic and cause death of entire seedling.\nIn grown up plants water soaked, translucent lesions appear near the leaf margin.\nThe lesions enlarge both in length and width with a wavy margin and turn straw yellow within a few days, covering the entire leaf.\nAs the disease advances, the lesions cover the entire lamina which turns white or straw coloured.\nMilky or opaque dew drops containing bacterial masses are formed on young lesions in the early morning.\nThey dry up on the surface leaving a white encrustation.\nThe affected grains have discoloured spots.\nIf the cut end of leaf is dipped in water, it becomes turbid because of bacterial ooze.\nPathogen Character:\nThe bacterium is aerobic, gram negative, non spore forming, rod with size ranging from 1-2 x 0.8-1.0􀀀m with monotrichous polar flagellum.\nBacterial colonies are circular, convex with entire margins, whitish yellow to straw yellow colored and opaque.\nBacterium :\nFavourable conditions / Epidemiology:\nClipping of tip of the seedling at the time of transplanting\nHeavy rain, heavy dew, flooding, deep irrigation water\nSevere wind and temperature of 25-30 0 C\nApplication of excessive nitrogen, especially late top dressing",
+   "pathogen": "Xanthomonas oryzae pv. oryzae\nOther Management",
+   "mode_of_spread": "",
+   "favourable_conditions": "",
+   "management": ""
+  }
+ },
+ "Brownspot": {
+  "label": "Brownspot",
+  "crop": "Rice",
+  "kind": "disease",
+  "name": "Brown Spot or Sesame leaf spot",
+  "status": "ok",
+  "note": "No crop in label; assumed rice.",
+  "source_url": "https://agritech.tnau.ac.in/crop_protection/rice_diseases/rice_2.html",
+  "images": [
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/rice_diseases/new.gif",
+    "path": "images/disease/rice/brown_spot_or_sesame_leaf_spot/new_c84c3d.gif",
+    "caption": "Other Management"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/images/rice_diseases/brown spot.jpg",
+    "path": "images/disease/rice/brown_spot_or_sesame_leaf_spot/brown_spot_d63979.jpg",
+    "caption": ""
+   }
+  ],
+  "fields": {
+   "symptoms": "The fungus attacks the crop from seedling to milky stage in main field\nSymptoms appear as minute spots on the coleoptile, leaf blade, leaf sheath, and glume, being most prominent on the leaf blade and glumes.\nThe spots become cylindrical or oval, dark brown with yellow halo.\nThe several spots coalesce and the leaf dries up.\nThe seedlings die and affected nurseries can be often recognised from a distance by scorched appearance.\nDark brown or black spots also appear on glumes leading to grain discoloration.\nIt causes failure of seed germination, seedling mortality and reduces the grain quality and weight.",
+   "pathogen": "Causal organism:Helminthosporium oryzae (Sexual stage: Cochliobolus miyabeanus) Other Management",
+   "mode_of_spread": "",
+   "favourable_conditions": "",
+   "management": ""
+  }
+ },
+ "Rice Blast": {
+  "label": "Rice Blast",
+  "crop": "Rice",
+  "kind": "disease",
+  "name": "Blast",
+  "status": "ok",
+  "note": "",
+  "source_url": "https://agritech.tnau.ac.in/crop_protection/rice_diseases/rice_1.html",
+  "images": [
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/rice_diseases/cp_index.jpg",
+    "path": "images/disease/rice/blast/cp_index_64def5.jpg",
+    "caption": "Home | About Us | Success Stories | Farmers Association | Farmers' Innovation | Publications | Contact"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/rice_diseases/new.gif",
+    "path": "images/disease/rice/blast/new_c84c3d.gif",
+    "caption": "Other Management"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/images/rice_diseases/blast_1.jpg",
+    "path": "images/disease/rice/blast/blast_1_d9319e.jpg",
+    "caption": "LEAF BLAST"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/images/rice_diseases/blast_2.jpg",
+    "path": "images/disease/rice/blast/blast_2_2d022c.jpg",
+    "caption": "NODAL BLAST"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/images/rice_diseases/blast_2.3.jpg",
+    "path": "images/disease/rice/blast/blast_2_3_c85c55.jpg",
+    "caption": "N BLAST"
+   }
+  ],
+  "fields": {
+   "symptoms": "The fungus attacks the crop at all stages of crop growth from seedling to late tillering and ear heading stage.\nSymptoms appear on leaves, nodes, rachis, and glumes.\nOn the leaves, the lesions appear as small bluish green flecks. The lesions soon enlarge under moist weather to form the characteristic spindle shaped spots with grey centre and dark brown margin (Leaf blast). The spots coalesce as the disease progresses and large areas of the leaves dry up and wither. Spots also appear on sheath. Severely infected nursery and field appear as burnt.\nBlack lesions appear on nodes girdling them. The affected nodes may break up and all the plant parts above the infected nodes may die (nodal blast).\nNodal infection causes the culm to break at the infected area\nInter nodal infection also occurs at the base of the plant which causes white panicles similar to that induced by yellow stem borer or water deficit\nLesions on the neck are grayish brown and causes the girdling of the neck and the panicle to fall over\nIf infection of the neck occurs before milky stage, no grain is formed, but if infection occurs later, grains of poor quality are formed\nLesions on the branches of the panicles and on the spikelet pedicels are brown to dark brown\nThe size and shape of the spots vary on different rice varieties.",
+   "pathogen": "Magnaporthe oryzae (Syn: P. grisea, Magnaporthe grisea) Other Management",
+   "mode_of_spread": "",
+   "favourable_conditions": "",
+   "management": ""
+  }
+ },
+ "Tungro": {
+  "label": "Tungro",
+  "crop": "Rice",
+  "kind": "disease",
+  "name": "Rice tungro virus",
+  "status": "ok",
+  "note": "",
+  "source_url": "https://agritech.tnau.ac.in/crop_protection/rice_diseases/rice_24.html",
+  "images": [
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/rice_diseases/new.gif",
+    "path": "images/disease/rice/rice_tungro_virus/new_c84c3d.gif",
+    "caption": "Other Management"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/images/rice_diseases/tungro_1.jpg",
+    "path": "images/disease/rice/rice_tungro_virus/tungro_1_27f4ce.jpg",
+    "caption": "YELLOW LEAF"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/images/rice_diseases/tungro_2.jpg",
+    "path": "images/disease/rice/rice_tungro_virus/tungro_2_65a3e7.jpg",
+    "caption": "INFECTED FIELD"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/images/rice_diseases/tungro_3.jpg",
+    "path": "images/disease/rice/rice_tungro_virus/tungro_3_971150.jpg",
+    "caption": "INFECTED AND NON-INFECTED FIELD"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/rice_diseases/rice_4_clip_image002_0000.jpg",
+    "path": "images/disease/rice/rice_tungro_virus/rice_4_clip_image002_0000_edb949.jpg",
+    "caption": "Orange Yellow Discolouration"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/rice_diseases/rice_4_clip_image002_0001.jpg",
+    "path": "images/disease/rice/rice_tungro_virus/rice_4_clip_image002_0001_670b3f.jpg",
+    "caption": "Severe Stunting and Yellowing"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/rice_diseases/rice_4_clip_image002_0002.jpg",
+    "path": "images/disease/rice/rice_tungro_virus/rice_4_clip_image002_0002_928838.jpg",
+    "caption": "Green Leaf Hopper"
+   }
+  ],
+  "fields": {
+   "symptoms": "Plants affected by tungro exhibit stunting and reduced tillering. Leaves become yellow or orange-yellow, it may also have rust-colored spots.\nYellowing starts from the tip of the leaf and may extend to the lower part of the leaf blade. Third leaf from the top most infected plants is taller than other leaves.\nYoung leaves are often mottled with pale green to whitish interveinal stripes and the old leaves may have rusty streaks of various sizes.\nDelayed flowering - panicles are small and not completely exerted\nMost panicles are sterile or partially filled grains.\nThe plants may be killed if infected early.\nTungro virus disease affects all growth stages of the rice plant specifically high at vegetative stage.\nSpecial detection technique:\nDetection techniques :\nTungro infected plants can be chemically identified by lodine Test:\nCollect leaf samples at 6 a.m.\nThe top 10 cm portion of the leaf is immersed in a solution containing 2 g of iodine and 6 g of potassium iodide in 100 ml of water for 15 minutes or 10 ml of tincture of iodine + 140 ml of water for one hour. Washed in water for detection.\nTungro infected leaves develop dark blue streaks.\nFactors favouring disease development:\nPresence of the virus sources.\nPresence of the vector.\nAge and susceptibility of host plants.\nSynchronization of the three above factors.\nAll growth stages of rice plant specifically the vegetative stage",
+   "pathogen": "Rice tungro bacilliform virus (RTBV) and Rice tungro spherical virus (RTSV) Vector : Green leafhopper, Nephotettix virescens : Other Management",
+   "mode_of_spread": "",
+   "favourable_conditions": "",
+   "management": ""
+  }
+ },
+ "Leaf smut": null,
+ "Army worm": null,
+ "Common_Rust": {
+  "label": "Common_Rust",
+  "crop": "Maize",
+  "kind": "disease",
+  "name": "Common Rust",
+  "status": "ok",
+  "note": "",
+  "source_url": "https://agritech.tnau.ac.in/crop_protection/maize_disease_new/maize_4.html",
+  "images": [
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/maize_disease_new/Image-1.jpg",
+    "path": "images/disease/maize/common_rust/image_1_9f3d8c.jpg",
+    "caption": "Brown pustules on leaf"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/maize_disease_new/oxalis_sml.jpg",
+    "path": "images/disease/maize/common_rust/oxalis_sml_46c0be.jpg",
+    "caption": "Brown pustules on leaf"
+   }
+  ],
+  "fields": {
+   "symptoms": "Minute flecks are appeared on both sides of leaves.\nCircular to elongate cinnamon brown, powdery, erumpent pustules on both leaf surfaces\nAs the crop matures brownish black pustules develop\nIn severe cases infection spreads to sheath and other parts",
+   "pathogen": "Puccinia sorghi is a heteroceious rust.\nUredospores single celled, echinulate, yellowish brown, pedicellate, elliptical\nTeliospores reddish or brown in colour, two celled, rounded at the apex\nAlternate hosts - Oxalis europea, O. corniculata and O. stricta\nBasidiospores infect Oxalis corniculata, where pycnial and aecial stages occur\nAeciospores carried by wind and infect maize",
+   "mode_of_spread": "Primary spread through alternate hosts\nSecondary spread through wind borne uredospores",
+   "favourable_conditions": "Cool, warm and moist weather (15 - 25o C)",
+   "management": "Remove the alternate hosts .\nCollect the remains of the crop and destroy by burning or burying\nFoliar spray of kresoxim-methyl 44.3% SC @ 1 ml/l or tebuconazole @ 1ml/l orchlorothalonil or mancozeb 2 ml/l at 35 and 50 DAS"
+  }
+ },
+ "Gray_Leaf_Spot": null,
+ "maize ear rot": {
+  "label": "maize ear rot",
+  "crop": "Maize",
+  "kind": "disease",
+  "name": "Aspergillus rot / Aflatoxin contamination rot",
+  "status": "approx",
+  "note": "TNAU only has Aspergillus ear rot. Your images may be Fusarium ear rot.",
+  "source_url": "https://agritech.tnau.ac.in/crop_protection/maize_disease_new/maize_5.html",
+  "images": [
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/maize_disease_new/arot3.jpg",
+    "path": "images/disease/maize/aspergillus_rot_aflatoxin_contamination_rot/arot3_755b5f.jpg",
+    "caption": ""
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/maize_disease_new/arot1.jpg",
+    "path": "images/disease/maize/aspergillus_rot_aflatoxin_contamination_rot/arot1_2af324.jpg",
+    "caption": ""
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/maize_disease_new/arot2.jpg",
+    "path": "images/disease/maize/aspergillus_rot_aflatoxin_contamination_rot/arot2_4ea991.jpg",
+    "caption": ""
+   }
+  ],
+  "fields": {
+   "symptoms": "Appears as an olive-green mould on the kernels from the tip of the ear\nFungal spores appear as powdery and may disperse like dust when you pull back the husk\nFungus produces a mycotoxin known as aflatoxin (B1, B2, G1 and G2)\nAflatoxin affects grain quality and marketability, as well as livestock health if the grain is consumed\nAflatoxin is extremely carcinogenic and most countries have regulations (20 ppb)",
+   "pathogen": "Aspergillus flavus and A. parasiticus",
+   "mode_of_spread": "The fungus survives in soil or crop residue and infects ears during late silking\nSpores are spread by wind and insects and infection takes place through wounds or the silks",
+   "favourable_conditions": "During hot, dry years on stressed plants\nFeeding damage from ear-invading insects and injury by birds or hail",
+   "management": "Maize must be dried to below 14 percent moisture\nReduce the stress to the crop during harvesting\nAvoid wound in kernels by insects/birds\nAppropriate fertility to the crop\nCob contamination by Aspergillus"
+  }
+ },
+ "maize fall armyworm": {
+  "label": "maize fall armyworm",
+  "crop": "Maize",
+  "kind": "pest",
+  "name": "Fall armyworm",
+  "status": "ok",
+  "note": "",
+  "source_url": "https://agritech.tnau.ac.in/crop_protection/maize/crop_prot_maize_fall_armyworm.html",
+  "images": [
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/maize/images/Picture2.jpg",
+    "path": "images/pest/maize/fall_armyworm_spodoptera_frugiperda/picture2_4e1f7a.jpg",
+    "caption": "Whorl damage"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/maize/images/Picture4.jpg",
+    "path": "images/pest/maize/fall_armyworm_spodoptera_frugiperda/picture4_376537.jpg",
+    "caption": "Larva feeding whorls"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/maize/images/Picture6.jpg",
+    "path": "images/pest/maize/fall_armyworm_spodoptera_frugiperda/picture6_793254.jpg",
+    "caption": "Egg mass"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/maize/images/Picture8.png",
+    "path": "images/pest/maize/fall_armyworm_spodoptera_frugiperda/picture8_760d1b.png",
+    "caption": "Egg mass"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/maize/images/Picture9.png",
+    "path": "images/pest/maize/fall_armyworm_spodoptera_frugiperda/picture9_684ded.png",
+    "caption": "Larva"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/maize/images/Picture7.jpg",
+    "path": "images/pest/maize/fall_armyworm_spodoptera_frugiperda/picture7_c3b632.jpg",
+    "caption": "Pupa"
+   }
+  ],
+  "fields": {
+   "symptoms": "Scrapping of leaf surface by young larvae.\nOlder larvae, feeds upon central whorl, causing extensive defoliation.\nWhorl, tassel and cob fed by larva.",
+   "pest": "",
+   "identification_biology": "Egg masses (120-150 eggs/ egg mass) covered with scales\nLarvae wit h 4 black spots arranged (in square shape) on 8th and 9th abdominal segment\nLarvae with inverted “Y” shaped mark on head\nMale adult moth forewing brown with triangular white spots; females’ forewing grayish brown.",
+   "economic_threshold": "",
+   "management": "Apply neem cake @ 250 kg/ha at the time of last ploughing.\nSeed treatment with cyantraniliprole 19.8% + thiamethoxam 19.8% FS @ 4 ml/kg seed.\nBorder cropping with cowpea, gingelly, redgram or sunflower (garden land) and fodder sorghum (dry land) @ 3 rows.\nSet up FAW pheromone traps @ 12 nos./ha\nSpray azadirachtin 1500 ppm @ 2.5 lit/ha or chlorantraniliprole 18.5 SC @ 200ml/ha (or) flubendiamide 480SC@ 250ml/ha at early stage (15 - 20 DAE).\nSpray Metarhizium anisopliae (TNAU-MA-GDU isolate) @ 2.5 kg/ha or emamectin benzoate 5 SG @ 200g/ha or novaluron 10 EC @ 750 ml/ha or spinetoram 11.7 SC @ 250 ml/ha at late whorl stage (35 - 40 DAE).\nOne of the insecticides recommended in late whorl stages can be used at cob formation stage if needed, but repetition to be avoided."
+  }
+ },
+ "maize stem borer": {
+  "label": "maize stem borer",
+  "crop": "Maize",
+  "kind": "pest",
+  "name": "Stem borer",
+  "status": "ok",
+  "note": "",
+  "source_url": "https://agritech.tnau.ac.in/crop_protection/maize/crop_prot_maize_2.html",
+  "images": [
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/maize/images/pestc/maize/stemborer/elongated_windows.jpg",
+    "path": "images/pest/maize/stem_borer/elongated_windows_27e65b.jpg",
+    "caption": "Elongated windows"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/maize/images/pestc/maize/stemborer/bore_hole.jpg",
+    "path": "images/pest/maize/stem_borer/bore_hole_282b93.jpg",
+    "caption": "Bore hole"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/maize/images/pestc/maize/stemborer/deadheart.jpg",
+    "path": "images/pest/maize/stem_borer/deadheart_2d7130.jpg",
+    "caption": "Dead heart"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/maize/images/pestc/maize/stemborer/pupa.jpg",
+    "path": "images/pest/maize/stem_borer/pupa_02e997.jpg",
+    "caption": "Larva and Pupa"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/maize/images/pestc/maize/stemborer/moth.png",
+    "path": "images/pest/maize/stem_borer/moth_4c779b.png",
+    "caption": "Moth"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/maize/images/pestc/maize/stemborer/stem borere egg mass.png",
+    "path": "images/pest/maize/stem_borer/stem_borere_egg_mass_fdafbd.png",
+    "caption": "Egg mass"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/maize/images/pestc/maize/stemborer/stem borer larva .png",
+    "path": "images/pest/maize/stem_borer/stem_borer_larva_3e7af1.png",
+    "caption": "Larva"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/maize/images/pestc/maize/stemborer/stem borer larva pupa.png",
+    "path": "images/pest/maize/stem_borer/stem_borer_larva_pupa_3afc08.png",
+    "caption": "Larva and Pupa"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/maize/images/pestc/maize/stemborer/stem borer female n male moth.png",
+    "path": "images/pest/maize/stem_borer/stem_borer_female_n_male_moth_4b5003.png",
+    "caption": "Female and male moth"
+   }
+  ],
+  "fields": {
+   "symptoms": "Central shoot dries leading to dead heart\nYoung larva feeds tender folded leaves causing “shot hole” symptom.\nOld larvae bores stem and feeds on internal tissues.\nBore holes and tunneling noticed on stem.",
+   "pest": "Chilo partellus",
+   "identification_biology": "Yellowish brown larva with brown head\nStraw coloured moths",
+   "economic_threshold": "",
+   "management": "Inter-crop maize with cowpea in 2:1 ratio.\nRelease egg parasitoid, Trichogramma chilonis @ 2,50,000 /ha thrice at weekly intervals.\nWhen infestation crosses 10%, spray dimethoate 30EC 660 ml/ha or chlorantraniliprole 18.5 SC @150 ml/ha"
+  }
+ },
+ "Healthy Maize": null,
+ "Wheat black rust": {
+  "label": "Wheat black rust",
+  "crop": "Wheat",
+  "kind": "disease",
+  "name": "Stem Rust",
+  "status": "ok",
+  "note": "Black rust = stem rust.",
+  "source_url": "https://agritech.tnau.ac.in/crop_protection/wheat/crop_prot_crop diseases_cereals_wheat_2.html",
+  "images": [
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/images/wheat_diseases/wheat stem rust_1.jpg",
+    "path": "images/disease/wheat/stem_rust/wheat_stem_rust_1_8b6d88.jpg",
+    "caption": "STEM RUST"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/images/wheat_diseases/Wheat stem rust best_2.jpg",
+    "path": "images/disease/wheat/stem_rust/wheat_stem_rust_best_2_9fc319.jpg",
+    "caption": ""
+   },
+   {
+    "url": "http://agritech.tnau.ac.in/ta/crop_protection/images/wheat_diseases/life_cycle_of_puccinia_triticina%20.jpg",
+    "path": "images/disease/wheat/stem_rust/life_cycle_of_puccinia_triticina_81716d.jpg",
+    "caption": "LIFE CYCLE"
+   },
+   {
+    "url": "http://agritech.tnau.ac.in/ta/crop_protection/images/wheat_diseases/Urediniospores_of_Puccinia_graminis_f._sp._tritici_400×.jpg",
+    "path": "images/disease/wheat/stem_rust/urediniospores_of_puccinia_graminis_f_sp_tritici_400_885641.jpg",
+    "caption": "Urediniospores of Puccinia graminis tritci"
+   },
+   {
+    "url": "http://agritech.tnau.ac.in/ta/crop_protection/images/wheat_diseases/Teliospore_of_Puccinia_graminis_f._sp._tritici_viewed_with_differential_interference_microscopy_400×.jpg",
+    "path": "images/disease/wheat/stem_rust/teliospore_of_puccinia_graminis_f_sp_tritici_viewed_with_dif_849184.jpg",
+    "caption": "Teliospores of Puccinia graminis tritci"
+   }
+  ],
+  "fields": {
+   "symptoms": "Pustules (containing masses of urediospores) are dark reddish brown - occur on both sides of the leaves, on the stems, and on the spikes\nPustules are usually separate and scattered, heavy infections -coalesce\nPrior to pustule formation, \"flecks\" may appear. Before the spore masses break through the epidermis, the infection sites feel rough to the touch\nAs the spore masses break through, the surface tissues take on a ragged and torn appearance",
+   "pathogen": "Puccinia graminis tritici",
+   "mode_of_spread": "Both survive on stubbles and volunteer crops\nAlternate host : Berberis spp.\nSpread : uredospores from hills\nLife cycle of Puccinia graminis tritci:\nIdentification of pathogen:",
+   "favourable_conditions": "",
+   "management": "Mixed cropping and crop rotation\nAvoid excess nitrogen\nSulphur dusting @ 35-40 kg/ha\nMancozeb @ 2g/lit\nResistant varieties\nLerma Rojo, Safed Lerma,\nSonalika and Chotil\nSource of Microscopic images: Diseases of small grain cereal crops- A colour handbook by TD Murray, DW Parry and ND Cattlin"
+  }
+ },
+ "Wheat Brown leaf Rust": {
+  "label": "Wheat Brown leaf Rust",
+  "crop": "Wheat",
+  "kind": "disease",
+  "name": "Leaf Rust /Brown Rust",
+  "status": "ok",
+  "note": "",
+  "source_url": "https://agritech.tnau.ac.in/crop_protection/crop_prot_crop diseases_cereals_wheat.html",
+  "images": [
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/images/crop_diseases/icon).png",
+    "path": "images/disease/wheat/leaf_rust_brown_rust_puccinia_recondita/icon_1f873d.png",
+    "caption": "Leaf Rust / Brown Rust - Puccinia recondita Stem Rust / Black Rust - Puccinia graminis f.sp.tritici"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/images/crop_diseases/icon).png",
+    "path": "images/disease/wheat/leaf_rust_brown_rust_puccinia_recondita/icon_1f873d.png",
+    "caption": "Leaf Rust / Brown Rust - Puccinia recondita Stem Rust / Black Rust - Puccinia graminis f.sp.tritici"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/images/crop_diseases/icon).png",
+    "path": "images/disease/wheat/leaf_rust_brown_rust_puccinia_recondita/icon_1f873d.png",
+    "caption": "Stripe Rust / Yellow Rust - Puccinia striiformis Loose Smut - Ustilago tritici"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/images/crop_diseases/icon).png",
+    "path": "images/disease/wheat/leaf_rust_brown_rust_puccinia_recondita/icon_1f873d.png",
+    "caption": "Stripe Rust / Yellow Rust - Puccinia striiformis Loose Smut - Ustilago tritici"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/thump/wheat/brown rust/brown rust 1.jpg",
+    "path": "images/disease/wheat/leaf_rust_brown_rust_puccinia_recondita/brown_rust_1_b75efd.jpg",
+    "caption": ""
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/thump/wheat/brown rust/brown  rust 3.jpg",
+    "path": "images/disease/wheat/leaf_rust_brown_rust_puccinia_recondita/brown_rust_3_f1ae22.jpg",
+    "caption": ""
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/thump/wheat/black rust/bwheat black rust 2.jpg",
+    "path": "images/disease/wheat/leaf_rust_brown_rust_puccinia_recondita/bwheat_black_rust_2_e0ed1b.jpg",
+    "caption": ""
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/thump/wheat/black rust/wheat  black rust.jpg",
+    "path": "images/disease/wheat/leaf_rust_brown_rust_puccinia_recondita/wheat_black_rust_928791.jpg",
+    "caption": ""
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/thump/wheat/yellow rust/yellow rust 1.jpg",
+    "path": "images/disease/wheat/leaf_rust_brown_rust_puccinia_recondita/yellow_rust_1_74a17e.jpg",
+    "caption": ""
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/thump/wheat/yellow rust/yellow rust 2.jpg",
+    "path": "images/disease/wheat/leaf_rust_brown_rust_puccinia_recondita/yellow_rust_2_fedab3.jpg",
+    "caption": ""
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/thump/wheat/loose smut/loose smut 2.jpg",
+    "path": "images/disease/wheat/leaf_rust_brown_rust_puccinia_recondita/loose_smut_2_b34ff6.jpg",
+    "caption": ""
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/thump/wheat/loose smut/looswe smut 3.jpg",
+    "path": "images/disease/wheat/leaf_rust_brown_rust_puccinia_recondita/looswe_smut_3_daa207.jpg",
+    "caption": ""
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/images/index_54.gif",
+    "path": "images/disease/wheat/leaf_rust_brown_rust_puccinia_recondita/index_54_7cc768.gif",
+    "caption": "Home | About Us | Success Stories | Farmers Association | TNAU Publications | Contact Us © 2014 TNAU. All Rights Reserved."
+   }
+  ],
+  "fields": {
+   "symptoms": "The postules are circular or slightly elliptical, smaller than those of stem rust, usually do not coalesce, and contain masses of orange to orange-brown Urediospores.\nInfection sites primarily are found on the upper surfaces of leaves and leaf sheaths and occasionally on the neck and awns.\nPustules (containing masses of urediospores) are dark reddish brown - occur on both sides of the leaves, on the stems, and on the spikes\nPustules are usually separate and scattered, heavy infections -coalesce.\nPrior to pustule formation, \"flecks\" may appear. Before the spore masses break through the epidermis, the infection sites feel rough to the touch\nAs the spore masses break through, the surface tissues take on a ragged and torn appearance\nThe pustules of stripe rust, which, contain yellow to orange-yellow urediospores, usually form narrow stripes on the leaves.\nPustules also can be found on leaf sheaths, necks, and glumes.\nThe entire inflorescence, except the rachis, is replaced by masses of smut spores. These black teliospores often are blown away by the wind, leaving only the bare rachis and remnants of other floral structures.\nLife cycle of Ustilago tritici",
+   "pathogen": "",
+   "mode_of_spread": "Both survive on stubbles and volunteer crops\nAlternate host : Thalictrum sp.\nSpread : uredospores from hills\nLife cycle of Puccinia recondita\nTop\nStem Rust / Black Rust: Puccinia graminis f.sp. tritici\nBoth survive on stubbles and volunteer crops\nAlternate host : Berberis spp.\nSpread : uredospores from hills\nTop\nStripe Rust /Yellow Rust-Puccinia striiformis\nBoth survive on stubbles and volunteer crops\nAlternate host : unknown\nSpread : uredospores from hill",
+   "favourable_conditions": "",
+   "management": "Mixed cropping and crop rotation\nAvoid excess “N”\nSulphur dusting @ 35-40 kg/ha\nMancozeb @ 2g/lit\nResistant varieties\nLerma Rojo, Safed Lerma,\nSonalika and Chotil\nTop\nLoose Smut- Ustilago tritici\nSeed treatment with Carboxin 2g/kg (Vitavax 2g/kg)"
+  }
+ },
+ "Wheat___Yellow_Rust": {
+  "label": "Wheat___Yellow_Rust",
+  "crop": "Wheat",
+  "kind": "disease",
+  "name": "Stripe Rust/Yellow Rust",
+  "status": "ok",
+  "note": "Yellow rust = stripe rust.",
+  "source_url": "https://agritech.tnau.ac.in/crop_protection/wheat/crop_prot_crop diseases_cereals_wheat_3.html",
+  "images": [
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/images/wheat_diseases/yellow rust 1.jpg",
+    "path": "images/disease/wheat/stripe_rust_yellow_rust/yellow_rust_1_815161.jpg",
+    "caption": "YELLOW RUST"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/images/wheat_diseases/yellow rust 2.jpg",
+    "path": "images/disease/wheat/stripe_rust_yellow_rust/yellow_rust_2_b98245.jpg",
+    "caption": ""
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/images/wheat_diseases/yellow_rust_life_cycle .jpg",
+    "path": "images/disease/wheat/stripe_rust_yellow_rust/yellow_rust_life_cycle_500ab0.jpg",
+    "caption": "Urediniospores of Puccinia striiformis (400X)"
+   },
+   {
+    "url": "http://agritech.tnau.ac.in/ta/crop_protection/images/wheat_diseases/Urediniospores_of_Puccinia_striiformis_400×.jpg",
+    "path": "images/disease/wheat/stripe_rust_yellow_rust/urediniospores_of_puccinia_striiformis_400_b0c7d8.jpg",
+    "caption": "Urediniospores of Puccinia striiformis (400X)"
+   },
+   {
+    "url": "http://agritech.tnau.ac.in/ta/crop_protection/images/wheat_diseases/Teliospores_of_Puccinia_striiformis_200×.jpg",
+    "path": "images/disease/wheat/stripe_rust_yellow_rust/teliospores_of_puccinia_striiformis_200_c3f33c.jpg",
+    "caption": "LIFE CYCLE"
+   }
+  ],
+  "fields": {
+   "symptoms": "The pustules of stripe rust, which, contain yellow to orange-yellow urediospores, usually form narrow stripes on the leaves\nPustules also can be found on leaf sheaths, necks, and glumes.",
+   "pathogen": "Puccinia striiformis",
+   "mode_of_spread": "Both survive on stubbles and volunteer crops\nAlternate host : unknown\nSpread : uredospores from hill\nLife cycle of Puccinia striiformis:\nIdentification of pathogen:",
+   "favourable_conditions": "",
+   "management": "Mixed cropping and crop rotation\nAvoid excess “N”\nSulphur dusting @ 35-40 kg/ha\nMancozeb @ 2g/lit\nResistant varieties\nLerma Rojo, Safed Lerma,\nSonalika and Chotil\nSource of Microscopic images: Diseases of small grain cereal crops- A colour handbook by TD Murray, DW Parry and ND Cattlin"
+  }
+ },
+ "Wheat powdery mildew": {
+  "label": "Wheat powdery mildew",
+  "crop": "Wheat",
+  "kind": "disease",
+  "name": "Powdery mildew",
+  "status": "ok",
+  "note": "",
+  "source_url": "https://agritech.tnau.ac.in/crop_protection/wheat/crop_prot_crop diseases_cereals_wheat_5.html",
+  "images": [
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/images/wheat_diseases/Powdery_Meldew_leaf_1.jpg",
+    "path": "images/disease/wheat/powdery_mildew/powdery_meldew_leaf_1_bc0ad8.jpg",
+    "caption": "MILDEW IN LEAF"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/images/wheat_diseases/Powdery_meldew_kernel.jpg",
+    "path": "images/disease/wheat/powdery_mildew/powdery_meldew_kernel_a11657.jpg",
+    "caption": "MILDEW IN KERNEL"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/images/wheat_diseases/Powdery_meldew_stem.jpg",
+    "path": "images/disease/wheat/powdery_mildew/powdery_meldew_stem_fd8e3e.jpg",
+    "caption": "MILDEW IN STEM"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/images/wheat_diseases/Powdery_Mildew_life_cycle .gif",
+    "path": "images/disease/wheat/powdery_mildew/powdery_mildew_life_cycle_761e75.gif",
+    "caption": ""
+   },
+   {
+    "url": "http://agridr.in/tnauEAgri/eagri50/PATH272/lecture03/Powdery%20mil%20of%20wheat.JPG",
+    "path": "images/disease/wheat/powdery_mildew/powdery_mil_of_wheat_822557.jpg",
+    "caption": "powdery growth appears on the leaf"
+   }
+  ],
+  "fields": {
+   "symptoms": "Greyish white powdery growth appears on the leaf, sheath, stem and floral parts.\nPowdery growth later become black lesion and cause drying of leaves and other parts.\nLife cycle of Erysiphe graminis",
+   "pathogen": "Erysiphe graminis var. tritici",
+   "mode_of_spread": "",
+   "favourable_conditions": "",
+   "management": "Spray Wettable sulphur 0.2% or Carbendazim @ 500 g/ha"
+  }
+ },
+ "Flag Smut": null,
+ "Wheat leaf blight": null,
+ "Wheat scab": null,
+ "Wheat aphid": null,
+ "Wheat mite": null,
+ "Wheat Stem fly": null,
+ "Healthy Wheat": null,
+ "RedRot sugarcane": {
+  "label": "RedRot sugarcane",
+  "crop": "Sugarcane",
+  "kind": "disease",
+  "name": "Red rot",
+  "status": "ok",
+  "note": "",
+  "source_url": "https://agritech.tnau.ac.in/crop_protection/sugarcane_diseases/sugarcane_d4.html",
+  "images": [
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/images/sugarcane_diseases/4.1.jpg",
+    "path": "images/disease/sugarcane/red_rot/4_1_ce6502.jpg",
+    "caption": "Reddish lesion on leaf midrib"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/images/sugarcane_diseases/4.2.jpg",
+    "path": "images/disease/sugarcane/red_rot/4_2_ebb29f.jpg",
+    "caption": "Orange to yellow leaf"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/images/sugarcane_diseases/4.3.jpg",
+    "path": "images/disease/sugarcane/red_rot/4_3_a47225.jpg",
+    "caption": "Inner region with reddish colour"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/images/sugarcane_diseases/4.4.jpg",
+    "path": "images/disease/sugarcane/red_rot/4_4_f31cf0.jpg",
+    "caption": "Glomerella tucumanensis"
+   }
+  ],
+  "fields": {
+   "symptoms": "The affected canes exhibit leaf colour change, from green to orange and then to yellow in the third or fourth leaf. Then the leaves start drying from bottom to top.\nIf the fungal spores enter the leaf sheath through the leaf midrib, then reddish spots can be seen on the back side of the leaf midrib also.\nThe external symptoms appear only after16 - 21 days after infection and drying of entire cane takes another 10 days time.\nWhen the affected cane is split opened, the inner region is reddish in colour with intermittent white tinges across the cane length.\nSometimes, the pith inside the cane is filled with blackish brown liquid and exhibited alchohol odour.",
+   "pathogen": "Red rot disease is caused by the fungus Glomerella tucumanensis. An older name, Colletotrichum falcatum, is still preferred by some pathologists.\nPathogen present on leaf sheaths and blades, solitary or aggregated, often forming short lines between vascular bundles, globose, immersed, dark brown to black 65-250 µm dia.; wall up to 8 cells thick, sclerotia on outside, pseudoparenchymatous within, ostiole slightly papillate, circular.",
+   "mode_of_spread": "",
+   "favourable_conditions": "",
+   "management": "Cultural method:\nThe best way to control red rot is to select setts for planting from healthy plants in a disease- free area.\nThe red rot affected field must be rotated with rice for one season and other crops for two seasons.\nGrowing of recommended resistant and moderately resistant varieties viz., Co 86032, Co 86249, CoSi 95071, CoG 93076, CoC 22, CoSi 6 and CoG 5\nPhysical method:\nRemoval of the affected clumps at an early stage and soil drenching with Carbendazim 50 WP (1 gm in 1 litre of water)\nThe cut ends and entire setts should be dipped in a fungicide solution, such as one per cent Bordeaux mixture.\nIf the disease is noticed in the field, the leaves and canes should be collected and destroyed by burning.\nChemical method:\nAdopt sett treatment with Carbendazim before planting (Carbendazim 50 WP (0.5 gm in 1 litre of water) or Carbendazim 25 DS (1gm in 1 litre of water) along with 2.5 kg of Urea in 250 litre of water\nUse fungitoxic chemicals like Bavistan, Benomyl, Topsin and Aretan at 0.1 per cent for 18 min. at 52ºC for dipping setts which gave almost complete elimination of rot infection."
+  }
+ },
+ "RedRust sugarcane": {
+  "label": "RedRust sugarcane",
+  "crop": "Sugarcane",
+  "kind": "disease",
+  "name": "Rust",
+  "status": "ok",
+  "note": "",
+  "source_url": "https://agritech.tnau.ac.in/crop_protection/sugarcane_diseases/sugarcane_d3.html",
+  "images": [
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/images/sugarcane_diseases/3.1.jpg",
+    "path": "images/disease/sugarcane/rust/3_1_29093c.jpg",
+    "caption": "Yellow spots on leaf"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/images/sugarcane_diseases/3.2.jpg",
+    "path": "images/disease/sugarcane/rust/3_2_b35c09.jpg",
+    "caption": "Red-brown spots"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/images/sugarcane_diseases/3.3.jpg",
+    "path": "images/disease/sugarcane/rust/3_3_5c3803.jpg",
+    "caption": "Rusty apperance"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/images/sugarcane_diseases/3.4.jpg",
+    "path": "images/disease/sugarcane/rust/3_4_68f0e3.jpg",
+    "caption": "Puccinia erianthi"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/images/sugarcane_diseases/3.5.jpg",
+    "path": "images/disease/sugarcane/rust/3_5_f4d6ef.jpg",
+    "caption": "Teliospores"
+   }
+  ],
+  "fields": {
+   "symptoms": "The earliest symptoms are small, elongated yellowish spots that are visible on both leaf surfaces.\nThe spots increase in length, turn brown to orange-brown or red-brown in color, which coalesced and formed large, irregular necrotic areas, thus it shows rusty appearance of leaf.\nThis eventually resulted in premature death of the leaves.",
+   "pathogen": "Uredinia are elongate, reddish-brown, with capitate, hyaline to light brown paraphyses.\nUrediniospores are thick-walled, orange-brown, obovoid, measuring 26-34 x 16-20 µm. The urediniospore surface is echinulate with 4-5 equatorial pores.\nTeliospores are dark brown and measure 30-43 x 17-23 µm, clavate, two-celled and slightly constricted at the septum.",
+   "mode_of_spread": "",
+   "favourable_conditions": "",
+   "management": "Cultural method\nThe best means of control for sugarcane rust is to grow resistant varieties Use resistant varieties like Co 91010 (Dhanush), Co 87025 (Kalyani)\nAffected leaves should be remove and burn immediately\nSugarcane grown in fields receiving recent applications of mill mud is typically very prone to rust\nChemical method\nSpray Tridemorph 1.0 litres or Mancozeb 2.0 kg/ha.\nUse dithane M 45 @ 2 g/lit for one spraying.\nApplication of triazole or strobilurin or pyraclostrobin fungicide @ 3 g/ lit of water."
+  }
+ },
+ "Yellow Rust Sugarcane": {
+  "label": "Yellow Rust Sugarcane",
+  "crop": "Sugarcane",
+  "kind": "disease",
+  "name": "Rust",
+  "status": "approx",
+  "note": "TNAU has one sugarcane rust page. Yellow/orange rust shares it with red/brown rust.",
+  "source_url": "https://agritech.tnau.ac.in/crop_protection/sugarcane_diseases/sugarcane_d3.html",
+  "images": [
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/images/sugarcane_diseases/3.1.jpg",
+    "path": "images/disease/sugarcane/rust/3_1_29093c.jpg",
+    "caption": "Yellow spots on leaf"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/images/sugarcane_diseases/3.2.jpg",
+    "path": "images/disease/sugarcane/rust/3_2_b35c09.jpg",
+    "caption": "Red-brown spots"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/images/sugarcane_diseases/3.3.jpg",
+    "path": "images/disease/sugarcane/rust/3_3_5c3803.jpg",
+    "caption": "Rusty apperance"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/images/sugarcane_diseases/3.4.jpg",
+    "path": "images/disease/sugarcane/rust/3_4_68f0e3.jpg",
+    "caption": "Puccinia erianthi"
+   },
+   {
+    "url": "https://agritech.tnau.ac.in/crop_protection/images/sugarcane_diseases/3.5.jpg",
+    "path": "images/disease/sugarcane/rust/3_5_f4d6ef.jpg",
+    "caption": "Teliospores"
+   }
+  ],
+  "fields": {
+   "symptoms": "The earliest symptoms are small, elongated yellowish spots that are visible on both leaf surfaces.\nThe spots increase in length, turn brown to orange-brown or red-brown in color, which coalesced and formed large, irregular necrotic areas, thus it shows rusty appearance of leaf.\nThis eventually resulted in premature death of the leaves.",
+   "pathogen": "Uredinia are elongate, reddish-brown, with capitate, hyaline to light brown paraphyses.\nUrediniospores are thick-walled, orange-brown, obovoid, measuring 26-34 x 16-20 µm. The urediniospore surface is echinulate with 4-5 equatorial pores.\nTeliospores are dark brown and measure 30-43 x 17-23 µm, clavate, two-celled and slightly constricted at the septum.",
+   "mode_of_spread": "",
+   "favourable_conditions": "",
+   "management": "Cultural method\nThe best means of control for sugarcane rust is to grow resistant varieties Use resistant varieties like Co 91010 (Dhanush), Co 87025 (Kalyani)\nAffected leaves should be remove and burn immediately\nSugarcane grown in fields receiving recent applications of mill mud is typically very prone to rust\nChemical method\nSpray Tridemorph 1.0 litres or Mancozeb 2.0 kg/ha.\nUse dithane M 45 @ 2 g/lit for one spraying.\nApplication of triazole or strobilurin or pyraclostrobin fungicide @ 3 g/ lit of water."
+  }
+ },
+ "Mosaic sugarcane": null,
+ "Sugarcane Healthy": null
+}

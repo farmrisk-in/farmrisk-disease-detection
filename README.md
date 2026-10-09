@@ -1,13 +1,17 @@
 ---
-title: Crop Disease Demo
-emoji: 🏢
-colorFrom: blue
+title: Crop Disease Detection
+emoji: 🌿
+colorFrom: green
 colorTo: yellow
 sdk: gradio
-sdk_version: 6.30.0
-python_version: '3.13'
 app_file: app.py
 pinned: false
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+# Crop Disease Detection
+
+Upload a photo of a crop leaf or plant. The model returns its top 5 disease predictions.
+
+The model is a vision transformer fine-tuned on images of cotton, rice, maize, wheat and sugarcane.
+
+This is a research prototype. Low-confidence results are flagged. Please confirm any diagnosis with an agronomist.
