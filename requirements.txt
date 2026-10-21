@@ -4,3 +4,8 @@ transformers
 pillow
 scikit-learn
 google-genai
+gradio
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
