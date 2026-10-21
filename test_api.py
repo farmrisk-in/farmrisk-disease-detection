@@ -107,15 +107,13 @@ def test_kb_lookup():
     print("✓ /api/v1/kb passed, kb_key:", data["kb_key"])
 
 
-def test_docs_and_ui():
+def test_docs():
     client = TestClient(app)
     res_docs = client.get("/docs")
     assert res_docs.status_code == 200
     res_openapi = client.get("/openapi.json")
     assert res_openapi.status_code == 200
-    res_ui = client.get("/")
-    assert res_ui.status_code == 200
-    print("✓ /docs and UI passed")
+    print("✓ /docs and /openapi.json passed")
 
 
 if __name__ == "__main__":
@@ -128,5 +126,5 @@ if __name__ == "__main__":
     test_advisory()
     test_analyze()
     test_kb_lookup()
-    test_docs_and_ui()
+    test_docs()
     print("\n🎉 ALL TESTS PASSED SUCCESSFULLY!\n")

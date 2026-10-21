@@ -9,8 +9,6 @@ Environment variables:
     GEMINI_MODEL    default: gemini-3.1-flash-lite
     FILL_MODE       how to fill sections missing from KB: ai | search | auto | off (default: ai)
     HF_TOKEN        Hugging Face access token (if model repo is private)
-    HOST            Server host (default: 0.0.0.0)
-    PORT            Server port (default: 7860)
     LOW_CONFIDENCE_THRESHOLD Minimum threshold for confident prediction (default: 0.50)
 """
 import io
@@ -18,15 +16,14 @@ import os
 from pathlib import Path
 from typing import Any, Dict, List, Optional
 
-import gradio as gr
-from fastapi import FastAPI, File, HTTPException, Query, UploadFile
+from fastapi import File, HTTPException, Query, UploadFile
 from fastapi.middleware.cors import CORSMiddleware
+import gradio as gr
 from PIL import Image
 from pydantic import BaseModel, Field
 import torch
 from torchvision import transforms as T
 from transformers import AutoImageProcessor, AutoModelForImageClassification
-import uvicorn
 
 from rag import Advisor, KnowledgeBase, split_sections
 
@@ -38,8 +35,6 @@ GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-3.1-flash-lite")
 FILL_MODE = os.getenv("FILL_MODE", "ai")  # off | ai | search | auto
 HF_TOKEN = os.getenv("HF_TOKEN")
 LOW_CONF = float(os.getenv("LOW_CONFIDENCE_THRESHOLD", "0.50"))
-HOST = os.getenv("HOST", "0.0.0.0")
-PORT = int(os.getenv("PORT", "7860"))
 
 # ---- classifier setup --------------------------------------------------------
 device = "cuda" if torch.cuda.is_available() else "cpu"
@@ -56,12 +51,6 @@ tf = T.Compose([
 # ---- knowledge base & advisor setup ------------------------------------------
 kb = KnowledgeBase(KB_DIR)
 advisor = Advisor(kb, GEMINI_MODEL, fill_mode=FILL_MODE)
-
-print("\n[map] model class -> KB entry mapping:")
-for i in range(model.config.num_labels):
-    lab = model.config.id2label[i]
-    print(f"  {lab:40s} -> {kb.resolve(lab)}")
-print()
 
 
 # ---- helper functions --------------------------------------------------------
@@ -240,21 +229,78 @@ class ClassItem(BaseModel):
     kb_key: Optional[str]
 
 
-# ---- FastAPI Application -----------------------------------------------------
-app = FastAPI(
-    title="Crop Disease Detection & Advisory API",
-    description=(
-        "REST API for crop disease detection and agronomic advisory. "
-        "Allows frontend applications to upload crop leaf images, obtain disease classifications, "
-        "and retrieve RAG/Gemini-backed agronomic guidance."
-    ),
-    version="1.0.0",
-    docs_url="/docs",
-    redoc_url="/redoc",
-    openapi_url="/openapi.json",
-)
+# ---- Gradio UI ---------------------------------------------------------------
+def gradio_advisory_for(label):
+    if not label:
+        return "", "", ""
+    if is_healthy(label):
+        return (
+            f"## {label}\n\nNo disease or pest detected. Keep monitoring the crop regularly.",
+            "",
+            "",
+        )
+    return advisor.advise(label)
 
-# Enable CORS for external frontends (e.g. React, Next.js, Vue, mobile apps)
+
+def gradio_analyze(image):
+    if image is None:
+        return {}, "Please upload an image.", gr.update(choices=[], value=None), "", "", ""
+    scores = classify_image(image)
+    top5 = sorted(scores, key=scores.get, reverse=True)[:5]
+    top, p = top5[0], scores[top5[0]]
+
+    if p < LOW_CONF:
+        note = (
+            f"**Low confidence ({p:.0%}).** The image may be unclear, or it may show "
+            "a crop or disease the model was not trained on. "
+            "Try a clearer photo, or pick a candidate below to see its advisory."
+        )
+        return scores, note, gr.update(choices=top5, value=None), "", "", ""
+
+    note = f"**Prediction:** {top} ({p:.0%})"
+    md, ctx, search_html = gradio_advisory_for(top)
+    return scores, note, gr.update(choices=top5, value=top), md, ctx, search_html
+
+
+with gr.Blocks(title="Crop Disease Detection & Advisory") as demo:
+    gr.Markdown(
+        "# 🌿 Crop Disease Detection & Advisory\n"
+        "Upload a photo of a cotton, rice, maize, wheat, or sugarcane plant (or other supported crops). "
+        "The model identifies the disease or pest, and the advisory is generated from a curated knowledge base.\n\n"
+        "**Note:** REST API endpoints are active! Explore the interactive API documentation at [`/docs`](/docs)."
+    )
+    with gr.Row():
+        with gr.Column(scale=1):
+            img = gr.Image(type="pil", label="Leaf or plant photo")
+            btn = gr.Button("Analyze", variant="primary")
+            label_out = gr.Label(num_top_classes=5, label="Top 5 predictions")
+            note = gr.Markdown()
+            choice = gr.Dropdown(label="Show advisory for", choices=[], interactive=True)
+        with gr.Column(scale=2):
+            advisory = gr.Markdown()
+            search_html = gr.HTML()
+            with gr.Accordion("Retrieved knowledge-base context", open=False):
+                ctx = gr.Markdown()
+
+    outputs = [label_out, note, choice, advisory, ctx, search_html]
+    btn.click(gradio_analyze, img, outputs)
+    img.upload(gradio_analyze, img, outputs)
+    choice.input(gradio_advisory_for, choice, [advisory, ctx, search_html])
+
+
+# ---- Attach FastAPI Endpoints to Gradio's App --------------------------------
+app = demo.app
+
+# Configure OpenAPI docs & CORS on the FastAPI instance
+app.title = "Crop Disease Detection & Advisory API"
+app.description = (
+    "REST API for crop disease detection and agronomic advisory. "
+    "Allows frontend applications to upload crop leaf images, obtain disease classifications, "
+    "and retrieve RAG/Gemini-backed agronomic guidance."
+)
+app.docs_url = "/docs"
+app.openapi_url = "/openapi.json"
+
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
@@ -264,7 +310,6 @@ app.add_middleware(
 )
 
 
-# ---- FastAPI Endpoints -------------------------------------------------------
 @app.get("/health", response_model=HealthResponse, tags=["System"])
 @app.get("/api/v1/health", response_model=HealthResponse, tags=["System"])
 def health_check():
@@ -412,71 +457,11 @@ def get_kb_entry(disease_label: str):
     }
 
 
-# ---- Gradio UI ---------------------------------------------------------------
-def gradio_advisory_for(label):
-    if not label:
-        return "", "", ""
-    if is_healthy(label):
-        return (
-            f"## {label}\n\nNo disease or pest detected. Keep monitoring the crop regularly.",
-            "",
-            "",
-        )
-    return advisor.advise(label)
-
-
-def gradio_analyze(image):
-    if image is None:
-        return {}, "Please upload an image.", gr.update(choices=[], value=None), "", "", ""
-    scores = classify_image(image)
-    top5 = sorted(scores, key=scores.get, reverse=True)[:5]
-    top, p = top5[0], scores[top5[0]]
-
-    if p < LOW_CONF:
-        note = (
-            f"**Low confidence ({p:.0%}).** The image may be unclear, or it may show "
-            "a crop or disease the model was not trained on. "
-            "Try a clearer photo, or pick a candidate below to see its advisory."
-        )
-        return scores, note, gr.update(choices=top5, value=None), "", "", ""
-
-    note = f"**Prediction:** {top} ({p:.0%})"
-    md, ctx, search_html = gradio_advisory_for(top)
-    return scores, note, gr.update(choices=top5, value=top), md, ctx, search_html
-
-
-with gr.Blocks(title="Crop Disease Detection & Advisory") as demo:
-    gr.Markdown(
-        "# 🌿 Crop Disease Detection & Advisory\n"
-        "Upload a photo of a cotton, rice, maize, wheat, or sugarcane plant (or other supported crops). "
-        "The model identifies the disease or pest, and the advisory is generated from a curated knowledge base.\n\n"
-        "**Note:** REST API endpoints are available! Explore the interactive API documentation at [`/docs`](/docs)."
-    )
-    with gr.Row():
-        with gr.Column(scale=1):
-            img = gr.Image(type="pil", label="Leaf or plant photo")
-            btn = gr.Button("Analyze", variant="primary")
-            label_out = gr.Label(num_top_classes=5, label="Top 5 predictions")
-            note = gr.Markdown()
-            choice = gr.Dropdown(label="Show advisory for", choices=[], interactive=True)
-        with gr.Column(scale=2):
-            advisory = gr.Markdown()
-            search_html = gr.HTML()
-            with gr.Accordion("Retrieved knowledge-base context", open=False):
-                ctx = gr.Markdown()
-
-    outputs = [label_out, note, choice, advisory, ctx, search_html]
-    btn.click(gradio_analyze, img, outputs)
-    img.upload(gradio_analyze, img, outputs)
-    choice.input(gradio_advisory_for, choice, [advisory, ctx, search_html])
-
-# Mount Gradio onto the FastAPI app so both UI and API live on the same port
-app = gr.mount_gradio_app(app, demo, path="/")
+# Re-initialize routes on demo.app to ensure FastAPI OpenAPI docs and routes are registered
+app.setup()
 
 
 # ---- Server Entrypoint -------------------------------------------------------
 if __name__ == "__main__":
-    print(f"\n🚀 Server starting on http://{HOST}:{PORT}")
-    print(f"📖 Swagger OpenAPI docs available at: http://{HOST}:{PORT}/docs")
-    print(f"🌿 Gradio UI available at: http://{HOST}:{PORT}/\n")
-    uvicorn.run(app, host=HOST, port=PORT)
+    # demo.launch() natively handles Hugging Face Spaces port allocation and lifecycle
+    demo.launch(_app=app)
